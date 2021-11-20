@@ -4,6 +4,58 @@
   
   
   <entry>
+    <title>【坑】产品经理的成长和选拔——《俞军产品论》 chapter 5</title>
+    <link href="/2021/11/20/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E7%9A%84%E6%88%90%E9%95%BF%E5%92%8C%E9%80%89%E6%8B%94%E2%80%94%E2%80%94%E3%80%8A%E4%BF%9E%E5%86%9B%E4%BA%A7%E5%93%81%E8%AE%BA%E3%80%8B%20chapter%205/"/>
+    <url>/2021/11/20/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E7%9A%84%E6%88%90%E9%95%BF%E5%92%8C%E9%80%89%E6%8B%94%E2%80%94%E2%80%94%E3%80%8A%E4%BF%9E%E5%86%9B%E4%BA%A7%E5%93%81%E8%AE%BA%E3%80%8B%20chapter%205/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    <categories>
+      
+      <category>产品升级打怪之路</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>PM</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>电商平台之社交分享</title>
+    <link href="/2021/11/20/%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E4%B9%8B%E7%A4%BE%E4%BA%A4%E5%88%86%E4%BA%AB/"/>
+    <url>/2021/11/20/%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E4%B9%8B%E7%A4%BE%E4%BA%A4%E5%88%86%E4%BA%AB/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    <categories>
+      
+      <category>产品升级打怪之路</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>PM</tag>
+      
+      <tag>电商</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2021/11/19/hello-world/"/>
     <url>/2021/11/19/hello-world/</url>
@@ -11,6 +63,12 @@
     <content type="html"><![CDATA[<h1 id="Record"><a href="#Record" class="headerlink" title="Record"></a>Record</h1><p><a href="https://hexo.io/zh-cn/docs/front-matter">Front-matter</a></p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><code class="hljs markdown">title: 文章标题<br>tags: [Hexo, Fluid]<br>index<span class="hljs-emphasis">_img: /img/example.jpg</span><br><span class="hljs-emphasis">banner_</span>img: /img/post<span class="hljs-emphasis">_banner.jpg #本地</span><br><span class="hljs-emphasis">date: 2019-10-10 10:00:00</span><br><span class="hljs-emphasis">comment: &#x27;valine&#x27;</span><br></code></pre></td></tr></table></figure><h4 id="Edit"><a href="#Edit" class="headerlink" title="Edit"></a>Edit</h4><figure class="highlight properties"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br></pre></td><td class="code"><pre><code class="hljs properties"><span class="hljs-comment">#Picture</span><br><span class="hljs-comment">![](/img/example.jpg)</span><br><span class="hljs-comment"></span><br><span class="hljs-comment">#行内标签</span><br><span class="hljs-meta">&#123;%</span> <span class="hljs-string">label primary/default/info/success warning/danger @text %&#125;</span><br><span class="hljs-comment"></span><br><span class="hljs-comment">#组图</span><br><span class="hljs-meta">&#123;%</span> <span class="hljs-string">gi total n1-n2-... %&#125;</span><br><span class="hljs-comment">  ![](url)</span><br><span class="hljs-comment">  ![](url)</span><br><span class="hljs-comment">  ![](url)</span><br><span class="hljs-comment">  ![](url)</span><br><span class="hljs-comment">  ![](url)</span><br><span class="hljs-meta">&#123;%</span> <span class="hljs-string">endgi %&#125;</span><br><span class="hljs-comment"></span><br><span class="hljs-comment">#书写公式</span><br><span class="hljs-attr">$$</span><br><span class="hljs-attr">E</span>=<span class="hljs-string">mc^2</span><br><span class="hljs-attr">$$</span><br><br><br></code></pre></td></tr></table></figure><p>blog_image:</p><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
     
+    
+    <tags>
+      
+      <tag>support</tag>
+      
+    </tags>
     
   </entry>
   
@@ -24,12 +82,18 @@
     <content type="html"><![CDATA[<h3 id="一、Java对象和类"><a href="#一、Java对象和类" class="headerlink" title="一、Java对象和类"></a>一、Java对象和类</h3><p>·多态：例如一个类可以拥有多个构造方法（参数数量、数据类型不同）</p><p>·继承</p><p>·封装</p><p>·抽象</p><p>·类：包括局部变量、成员变量和类变量。</p><p>·对象：对象是类的、一个实例，有状态和行为。</p><p>·实例</p><p>·方法</p><p>·重载</p>]]></content>
     
     
+    <categories>
+      
+      <category>技术成长</category>
+      
+    </categories>
+    
     
     <tags>
       
-      <tag>Hexo</tag>
+      <tag>java</tag>
       
-      <tag>Fluid</tag>
+      <tag>编程</tag>
       
     </tags>
     
@@ -42,9 +106,21 @@
     <link href="/2021/07/25/DevOps%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B0/"/>
     <url>/2021/07/25/DevOps%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B0/</url>
     
-    <content type="html"><![CDATA[<p><a href="https://blog.csdn.net/bjweimengshu/article/details/79031552">运维招聘</a>：<br>熟练使用Linux, unix, windows操作系统；<br>精通各种常用服务器软件（tomcat, apache, nginx,redis,mysql…)的配置及优化<br>了解负载均衡和高可用的原理，如LVS,Keepalived等<br>熟悉网络原理，TCP/IP协议，掌握至少一种脚本语言。<br>会使用各种配置管理和部署管理的工具。</p>]]></content>
+    <content type="html"><![CDATA[]]></content>
     
     
+    <categories>
+      
+      <category>技术成长</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>云计算</tag>
+      
+    </tags>
     
   </entry>
   
@@ -55,22 +131,21 @@
     <link href="/2021/07/25/2021%E9%98%85%E8%AF%BB%E8%AE%B0%E5%BD%95/"/>
     <url>/2021/07/25/2021%E9%98%85%E8%AF%BB%E8%AE%B0%E5%BD%95/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<h3 id="Reading"><a href="#Reading" class="headerlink" title="Reading"></a>Reading</h3><hr><ul><li>[ ] 《俞军产品论》 俞军</li><li>[ ] 《沟通的方法》 脱不花</li></ul><h3 id="Ready"><a href="#Ready" class="headerlink" title="Ready"></a>Ready</h3><hr><ul><li>[ ] 《金字塔原理》 </li><li>[ ] 《幕后产品》</li><li>[ ] 《计算广告》</li><li>[ ] 《社会心理学》</li><li>[ ] 《利用Python进行数据分析》</li></ul>]]></content>
     
     
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>test_my_site</title>
-    <link href="/2021/07/17/test-my-site/"/>
-    <url>/2021/07/17/test-my-site/</url>
-    
-    <content type="html"><![CDATA[]]></content>
+    <categories>
+      
+      <category>书单</category>
+      
+    </categories>
     
     
+    <tags>
+      
+      <tag>2021</tag>
+      
+    </tags>
     
   </entry>
   
